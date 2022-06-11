@@ -1,4 +1,4 @@
-# [Adarsh Malviya](https://github.com/adarshmalviya) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# [Adarsh Malviya](https://github.com/adarshmalviya) 
 ![GitHub Logo](https://github.com/adarshmalviya/adarshmalviya/blob/main/Adarsh%20Malviya%20Github.jpg)
 
 * I am **Adarsh Malviya** 👨🏻‍🎓, currently studing Computer Engineering from D.Y. Patil College Of Engineering, Akurdi, Pune. <br />
